@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Мира Органайзер</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="members">%d members</string>
+    <string name="search">Search</string>
+    <string name="info">Information</string>
+    <string name="author_me">me</string>
+    <string name="attached_image">Attached image</string>
+    <string name="jumpBottom">Jump to bottom</string>
+    <string name="now">8:30 PM</string>
+    <string name="send">Send</string>
+    <string name="textfield_desc">Text input</string>
+    <string name="textfield_hint">Message #composers</string>
+    <string name="emoji_selector_desc">Emoji selector</string>
+    <string name="emoji_selector_bt_desc">Show Emoji selector</string>
+    <string name="emojis_label">Emojis</string>
+    <string name="stickers_label">Stickers</string>
+
+    <string name="not_available">Functionality currently not available</string>
+    <string name="not_available_subtitle">Grab a beverage and check back later!</string>
+    <string name="no_network_connectivity">no connection</string>
+    <string name="BASE_URL" />
+</resources>
